@@ -1,0 +1,15 @@
+.scoreTable {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  height: 771px;
+  border-radius: 10px;
+  margin: auto;
+}
+.table-wrapper{
+  width: 680px;
+  margin: auto;
+}
+.playButton {
+  width: 50px;
+}

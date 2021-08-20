@@ -1,0 +1,91 @@
+.navbarbutton{
+    font-family: Arial, Helvetica, sans-serif;
+    width:25%;
+    text-align:center;
+    font-size:11pt;
+    border-color: rgb(65, 105, 225);
+    background-color:rgb(65, 105, 225);
+    border-style:solid;
+    padding:.5em;
+    color:white;
+    cursor: pointer;
+}
+.navbarbutton:hover {
+        background-color:rgb(70, 181, 255);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+
+}
+
+h1 { 
+    color:rgb(0, 37, 117);
+}
+
+.mainbar {
+    width:75%;
+    float:right;
+}
+
+.leftbar {
+    top:10%;
+    min-width:25%;
+    float:left;
+    height:100%;
+}
+
+.footerbar{
+    width:100%;
+    float:left;
+}
+
+.spacer {
+    min-height:5em;
+    float:left;
+    width:100%;
+}
+
+.sortoptions {
+    border:2px;
+}
+
+.questionButton {
+    width:1.5em;
+    height:1.5em;
+    margin-right:0;
+    padding-left:3em;
+}
+.questionButton:hover {
+    background-color:rgb(70, 181, 255) !important;
+    color:white;
+}
+
+.singleButton {
+    width:1.5em;
+    height:1.5em;
+    margin-right:0;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index:3;
+    padding: auto;
+    margin: auto;
+}
+
+.singleButton:hover {
+    background-color:rgb(70, 181, 255) !important;
+    color:white;
+}
+
+.checker {
+    width:10%;
+    height:1.5em;
+    margin-right:0;
+}
+
+
+
+

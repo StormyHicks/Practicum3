@@ -1,0 +1,103 @@
+/* Most of this is Sean's work */
+
+.QuizStart {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+h1 {
+  font: bold;
+}
+
+.Menu {
+  background-color: lightgray;
+  border-radius: 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  height: 330px;
+  padding: 20px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Menu input, button {
+  width: 500px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color:rgb(70, 181, 255) !important;
+  color:black !important;
+
+}
+
+.Quiz {
+  background-color: lightgray;
+  border-radius: 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  height: 330px;
+  padding: 20px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Questions {
+  align-items: center;
+}
+
+.Menu, .Quiz, .EndScreen h1 {
+  color: white;
+}
+
+.EndScreen {
+  background-color: lightgray;
+  border-radius: 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  height: 330px;
+  padding: 20px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#nextQuestion {
+  width: 200px;
+}
+
+h3 {
+  color: #ffffff;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

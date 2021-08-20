@@ -1,0 +1,1 @@
+start bat\runReact.bat && start bat\runSpring.bat
