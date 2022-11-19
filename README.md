@@ -1,6 +1,5 @@
 This was a team project, not solo work. I have removed commits and names for privacy reasons.
 
-What I did for this project:
 This application used Java, JavaScript, and ReactJS. Users can take trivia quizzes which draw their 
 categories and questions from the backend. After taking the quiz, the user can save their score to 
 the database. A score history can be viewed from user page. There is another section which allows 
