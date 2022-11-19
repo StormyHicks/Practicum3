@@ -7,7 +7,8 @@ administration users to add or remove content like new categories and questions.
 also contained simplistic login and registration functions. 
 
 TECH USED: Java, JavaScript, ReactJS, CSS, MySQL, SwaggerUI, Microsoft Teams
-Responsibilities: Team Management, Tech Support, Unstucking Teammates. I ran the meetings, 
+
+What I did for this project: Team Management, Tech Support, Unstucking Teammates. I ran the meetings, 
 wrote the documentation, fixed bugs, and provided finishing touches. I also dictated tasks, wrote 
 GitHub tickets and merge branches. 
 Watch my Trivia Application presentation here: https://www.youtube.com/watch?v=BIhdyYBbP6c
